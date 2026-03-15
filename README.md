@@ -79,26 +79,23 @@ Modelo recomendado (ajustável):
 - Treinamento do Power BI no Microsoft Learn (módulos iniciais).   
 - Fundamentos do Power BI (entrada e navegação).   
 
-**Prática:**
+**Pratica:**
 - Usar **amostras oficiais** (PBIX/XLSX) para aprender rapidamente observando modelos prontos. A Microsoft reúne amostras e explica como abrir e reutilizar. [6](https://datascienceenthusiasts.com.br/guia-carreiras-salarios-dados-brasil-2025/)  
 
-**Entregável:**
-- 1 relatório simples com **2–3 páginas** (ex.: visão geral + detalhamento).
+**Entregável:** 1 relatório simples com **2–3 páginas** (ex.: visão geral + detalhamento).
 
 ---
 
 ### 3.4 Fase 2 — Power Query (ETL) (Semanas 3–4)
 **Objetivo:** dominar importação, limpeza, tratamento de erros e padronização de dados.
 
-**Conteúdo (oficial):**
+**Conteúdo:**
 - Documentação do **Power Query** (obter/transformar dados, conceitos e boas práticas). [4](https://faculdade.grancursosonline.com.br/blog/analista-de-bi/)  
 
-**Prática:**
-- Construir pipeline com 2 fontes comuns (ex.: Excel/CSV + outra fonte exportada).
-- Padronizar colunas, tipos, chaves, remover duplicados e tratar nulos.
+**Prática:** 1. Construir pipeline com 2 fontes comuns (ex.: Excel/CSV + outra fonte exportada).
+2. Padronizar colunas, tipos, chaves, remover duplicados e tratar nulos.
 
-**Entregável:**
-- Dataset “limpo” pronto para modelagem (etapas documentadas no Power Query).
+**Entregável:** Dataset “limpo” pronto para modelagem (etapas documentadas no Power Query).
 
 ---
 
@@ -108,49 +105,43 @@ Modelo recomendado (ajustável):
 **Referência (orientação oficial da função/PL-300):**
 - A certificação/role do Power BI Data Analyst cobre **modelagem** como competência central. [2](https://www.youtube.com/watch?v=7cUrsltJbEI)[3](https://www.udemy.com/course/power-bi-power-bi-completo-do-basico-ao-avancado/)  
 
-**Prática:**
-- Organizar o modelo em:
+**Prática:** Organizar o modelo em:
   - 1 tabela fato (ex.: operações, propostas, vendas)
   - Dimensões (tempo, agência, produto, cliente/segmento, canal etc.)
 - Validar filtros/segmentações e relacionamento (cardinalidade, direção).
 
-**Entregável:**
-- 1 página do relatório funcionando com filtros consistentes e sem ambiguidade.
+**Entregável:** 1 página do relatório funcionando com filtros consistentes e sem ambiguidade.
 
 ---
 
 ### 3.6 Fase 4 — DAX (Medidas e Tempo) (Semanas 7–9)
 **Objetivo:** criar KPIs reais com medidas, contexto de filtro e comparações por período.
 
-**Conteúdo (oficial):**
+**Conteúdo:**
 - Referência de DAX no Microsoft Learn. [5](https://api.asm.skype.com/v1/objects/0-wus-d11-a40578cdffb2fdda9708a2e6a03fa0bb/views/original)  
 - Visão geral do DAX (medidascia (orientação oficial da função/PL-300):**
 - O perfil do Data Analyst deve entregar insights acionáveis com visualizações compreensíveis. [2](https://www.youtube.com/watch?v=7cUrsltJbEI)[3](https://www.udemy.com/course/power-bi-power-bi-completo-do-basico-ao-avancado/)  
 
-**Prática:**
-- Criar 2 páginas:
+**Prática:** Criar 2 páginas:
   1) **Executiva**: KPIs + tendência + alertas
   2) **Diagnóstico**: decomposição por produto, segmento, agência, canal, período
 
-**Entregável:**
-- Relatório com narrativa clara, layout consistente e filtros bem posicionados.
+**Entregável:** Relatório com narrativa clara, layout consistente e filtros bem posicionados.
 
 ---
 
 ### 3.8 Fase 6 — Power BI Service & Governança (Semanas 12–13)
 **Objetivo:** publicar, compartilhar, entender workspaces e fundamentos de segurança.
 
-**Conteúdo (oficial):**
+**Conteúdo:**
 - A função/PL-300 inclui **gerenciar e proteger** conteúdo no Power BI. [2](https://www.youtube.com/watch?v=7cUrsltJbEI)[3](https://www.udemy.com/course/power-bi-power-bi-completo-do-basico-ao-avancado/)  
 - Laboratórios oficiais PL-300 (hands-on) para praticar cenários reais (workspaces, dashboards, segurança). [7](https://bing.com/search?q=Power+Query+documenta%c3%a7%c3%a3o+Microsoft+Learn)[8](https://learn.microsoft.com/en-us/power-query/)  
 
-**Prática:**
-- Publicar relatório (quando possível).
-- Criar estrutura de workspace (se aplicável) e documentar atualização/refresh.
-- Estudar noções de controle de acesso e RLS (conceitualmente e via labs). [8](https://learn.microsoft.com/en-us/power-query/)[7](https://bing.com/search?q=Power+Query+documenta%c3%a7%c3%a3o+Microsoft+Learn)  
+**Prática:** 1. Publicar relatório (quando possível).
+2. Criar estrutura de workspace (se aplicável) e documentar atualização/refresh.
+3. Estudar noções de controle de acesso e RLS (conceitualmente e via labs). [8](https://learn.microsoft.com/en-us/power-query/)[7](https://bing.com/search?q=Power+Query+documenta%c3%a7%c3%a3o+Microsoft+Learn)  
 
-**Entregável:**
-- Relatório “publicável” + documentação simples (`README` do relatório: objetivo, KPIs, origem dos dados, atualização).
+**Entregável:** 1. Relatório “publicável” + documentação simples (`README` do relatório: objetivo, KPIs, origem dos dados, atualização).
 
 ---
 
