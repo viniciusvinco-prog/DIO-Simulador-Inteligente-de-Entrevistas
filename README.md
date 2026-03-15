@@ -122,7 +122,8 @@ Modelo recomendado (ajustável):
 - Visão geral do DAX (medidascia (orientação oficial da função/PL-300):**
 - O perfil do Data Analyst deve entregar insights acionáveis com visualizações compreensíveis. [2](https://www.youtube.com/watch?v=7cUrsltJbEI)[3](https://www.udemy.com/course/power-bi-power-bi-completo-do-basico-ao-avancado/)  
 
-**Prática:** Criar 2 páginas:
+**Pratica:**
+Criar 2 páginas:
   1) **Executiva**: KPIs + tendência + alertas
   2) **Diagnóstico**: decomposição por produto, segmento, agência, canal, período
 
@@ -130,7 +131,7 @@ Modelo recomendado (ajustável):
 
 ---
 
-### 3.8 Fase 6 — Power BI Service & Governança (Semanas 12–13)
+### 3.7 Fase 5 — Power BI Service & Governança (Semanas 12–13)
 **Objetivo:** publicar, compartilhar, entender workspaces e fundamentos de segurança.
 
 **Conteúdo:**
@@ -145,7 +146,7 @@ Modelo recomendado (ajustável):
 
 ---
 
-### 3.9 Fase 7 — Portfólio Direcionado (Banco/PJ) (Semanas 14–16)
+### 3.8 Fase 6 — Portfólio Direcionado (Banco/PJ) (Semanas 14–16)
 **Objetivo:** consolidar portfólio com 2 projetos completos (sem dados sensíveis; usar dados fictícios/anonimizados/amostras).
 
 **Projeto 1 (Carteira PJ / Comercial):**
